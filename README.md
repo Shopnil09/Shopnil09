@@ -1,5 +1,6 @@
 Hi, I am Shopnil - Welcome to my GitHub Repository
-I am a currently a senior at SUNY Albany majoring in Computer Science and minoring in Mathematics and Informatics. I am highly interested in Software Development, especially Backend Development, and I am learning new skills to foster my passion for learning and developement. 
+
+I am currently a senior at SUNY Albany majoring in Computer Science and minoring in Mathematics and Informatics. I am highly interested in Software Development, especially Backend Development, and I am learning new skills to foster my passion for learning and developement. 
 
 - 🔭 I’m currently studying at SUNY Albany 
 - 🌱 I’m currently learning React.js, App Development, Computer Communication Networks
