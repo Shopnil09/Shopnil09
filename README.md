@@ -1,5 +1,4 @@
-Hi, I am Shopnil - Welcome to my GitHub Repository. 
-I am a recent graduate of University at Albany, SUNY. I received a Bachelor of Science in Computer Science. 
+Hi, I am Shopnil - Welcome to my GitHub Repository.
 
 - 🔭 I’m currently working as a Software Engineer at TruWeather Solutions Inc. 
 - 🌱 I’m currenty learning: machine learning, Golang, and how to build my own database
